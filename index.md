@@ -5,7 +5,7 @@
 ### discord: marinater#6555
 
 ## Bio
-![myself](images/pfp.jpg)
+![myself](pfp.jpg)
 Junior CS Student studying at RPI. Interested in frontend development and computer vision
 
 ## Lab Reports
