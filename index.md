@@ -6,6 +6,7 @@
 
 ## Bio
 ![myself](pfp.jpg)
+
 Junior CS Student studying at RPI. Interested in frontend development and computer vision
 
 ## Lab Reports
