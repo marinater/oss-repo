@@ -1,8 +1,8 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## Samarth Patel
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+Junior CS Student studying at RPI. Interested in frontend development and computer vision
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
