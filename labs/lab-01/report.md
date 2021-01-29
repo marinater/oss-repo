@@ -2,7 +2,7 @@
 
 ## Discord Hello Message
 
-![Hello](discord-hello.jpg)
+![Hello](discord-hello.png)
 
 ## Reading Assignments
 
