@@ -2,7 +2,7 @@
 
 ## Discord Hello Message
 
-![Hello](images/discord-hello.jpg)
+![Hello](discord-hello.jpg)
 
 ## Reading Assignments
 
@@ -10,7 +10,7 @@
 
 ## Tree
 
-![Tree](images/tree.png)
+![Tree](tree.png)
 
 ## Regex Practice
 
