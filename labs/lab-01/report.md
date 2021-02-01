@@ -19,6 +19,13 @@ The chapter overall gives an introduction to piracy and how the internet sparked
 ![Tree](tree.png)
 
 ## Regex Practice
+![Regex Practice](regex-practice.png)
 
 ## Regex Crosswords
+![Regex Crosswords](regex-crossword.png)
 
+## Blocky
+![Blocky](blocky.png)
+
+## Reflection
+Two Open Source projects that really interest me are React and Recoil.js. I really enjoy using both of these projects and think contributing to them could give me a deeper understanding of how they work internally. Additionally, these are big projects and I know there are a lot of features that could be expanded on or bugs that need fixing.
