@@ -13,7 +13,8 @@ I found this to be pretty interesting since I found many of things listed to be 
 1. Ignore rudeness (to an extent). Sometimes people come off that way accidentally and other times they are exactly as rude as they mean to be. Either way, try to see past the rudeness to help others who stumble across the post and are looking for an answer, not a rant on manners.
 2. Read the question and, more importantly, *understand* the question being asked. There are often finer points you can miss that completely change how the solution has to be approached.
 ## Free Culture
-The chapter overall gives an introduction to piracy and how the internet sparked fierce debate over age old copyright issues.
+The chapter overall gives an introduction to piracy and how the internet sparked fierce debate over what were mostly settled copyright issues. What I thought was really interesting was how copyright law originally dealt with only publishing. Since the act of publishing itself was expensive, it inherntly limited it to commerical entities, making it easy for the government to rule on and enforce copyright claims. However, the internet changed that by making it just as easy for a single person to distribute information as an entire publishing company. And unlike large commercial entities, individuals are far more numerous and make it much more difficult to enforce the same copyright rules that worked well previously. Another caveat is that the internet makes much more creative content susceptible to copyright claims, and in a way serves as an anti-competition measure that protects certain industries at the expense of individuals.
+
 ## Tree
 
 ![Tree](tree.png)
