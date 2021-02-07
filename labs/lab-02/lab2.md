@@ -11,3 +11,5 @@
 ![Pull Req diff](git-pullreq.png)
 
 ![Git Tag](git-tag.png)
+
+![Project Ideas Repo](https://github.com/wdturner/OSSProjectIdeas/pull/22)
