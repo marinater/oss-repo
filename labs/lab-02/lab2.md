@@ -7,3 +7,5 @@
 ![Learn git branching](git-practice.png)
 
 [PullReq repo](https://github.com/marinater/PullReq)
+
+![Pull Req diff](git-pullreq.png)
