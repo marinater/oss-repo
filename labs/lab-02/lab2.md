@@ -9,3 +9,5 @@
 [PullReq repo](https://github.com/marinater/PullReq)
 
 ![Pull Req diff](git-pullreq.png)
+
+![Git Tag](git-tag.png)
