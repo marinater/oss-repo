@@ -12,4 +12,4 @@
 
 ![Git Tag](git-tag.png)
 
-![Project Ideas Repo](https://github.com/wdturner/OSSProjectIdeas/pull/22)
+[Project Ideas Repo](https://github.com/wdturner/OSSProjectIdeas/pull/22)
