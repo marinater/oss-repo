@@ -1,6 +1,6 @@
 Samarth Patel
 
-# Lab 8
+# Lab 7
 
 ## Checkpoint 1: Getting started
 
