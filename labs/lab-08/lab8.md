@@ -4,7 +4,7 @@ Samarth Patel
 
 ## Example 0
 
-![Image 0](/Users/marinater/Documents/open-source/lab9/img0.png)
+![Image 0](./img0.png)
 
 ## Example 1
 
@@ -17,9 +17,9 @@ su
 cowsay
 ```
 
-![img1](/Users/marinater/Documents/open-source/lab9/img1.png)
+![img1](./img1.png)
 
-![img2](/Users/marinater/Documents/open-source/lab9/img2.png)
+![img2](./img2.png)
 
 ## Example 2
 
@@ -33,15 +33,15 @@ docker images
 
 ```
 
-![img3](/Users/marinater/Documents/open-source/lab9/img3.png)
+![img3](./img3.png)
 
-![image-20210408212341583](/Users/marinater/Documents/open-source/lab9/img4.png)
+![image-20210408212341583](./img4.png)
 
-![image-20210408212407792](/Users/marinater/Documents/open-source/lab9/img5.png)
+![image-20210408212407792](./img5.png)
 
 After stopping container, removing container, and then removing all images
 
-![image-20210408212603174](/Users/marinater/Documents/open-source/lab9/img6.png)
+![image-20210408212603174](./img6.png)
 
 ## Example 3
 
@@ -50,11 +50,11 @@ docker build -t example03 .
 docker run -p 5000:5000 example03
 ```
 
-![image-20210408213051218](/Users/marinater/Documents/open-source/lab9/img7.png)
+![image-20210408213051218](./img7.png)
 
 ![image-20210408213155991](/Users/marinater/Library/Application Support/typora-user-images/image-20210408213155991.png)
 
-![image-20210408213229587](/Users/marinater/Documents/open-source/lab9/img9.png)
+![image-20210408213229587](./img9.png)
 
 ## Example 4
 
@@ -75,7 +75,7 @@ curl -XDELETE 'http://localhost:1337/message/606fb36296419d2c5885d9a5'
 curl 'http://localhost:1337/message'
 ```
 
-![image-20210408215348568](/Users/marinater/Documents/open-source/lab9/img10.png)
+![image-20210408215348568](./img10.png)
 
-![image-20210408215507534](/Users/marinater/Documents/open-source/lab9/img11.png)
+![image-20210408215507534](./img11.png)
 
