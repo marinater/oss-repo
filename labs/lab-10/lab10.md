@@ -20,7 +20,7 @@ Final classification: shirt
 
 ### Test 2
 
-![image-20210422190316640](/Users/marinater/Library/Application Support/typora-user-images/image-20210422190316640.png)
+![test_2](./test_2.jpeg)
 
 ![img5](./img5.png)
 
@@ -30,7 +30,7 @@ Final classification: sandal
 
 ### Test 3
 
-![image-20210422190339522](/Users/marinater/Library/Application Support/typora-user-images/image-20210422190339522.png)
+![test_3](./test_3.jpeg)
 
 ![img4](./img4.png)
 
